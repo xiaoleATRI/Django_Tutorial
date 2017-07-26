@@ -1,0 +1,8 @@
+{
+  "name": "Django Training",
+  "description": "A django Python app, which can easily be deployed to Heroku.",
+  "image": "heroku/python",
+  "repository": "https://git.heroku.com/djangotraining.git",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
